@@ -9,5 +9,7 @@ package arvoreab;
  * @author caio.gflima
  */
 public class Principal {
-    
+    public static void main(String[] args) {
+        
+    }
 }
